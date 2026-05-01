@@ -18,13 +18,14 @@ It is a full-stack application integrating **Machine Learning + Backend + API + 
 
 ## 🧠 Machine Learning
 
-* Model: Random Forest Classifier
-* Accuracy: ~91%
-* Features Used:
+* **Model:** Random Forest Classifier
+* **Accuracy:** ~91%
 
-  * G1 (First Period Grade)
-  * G2 (Second Period Grade)
-  * Study Time
+### Features Used:
+
+* G1 (First Period Grade)
+* G2 (Second Period Grade)
+* Study Time
 
 ---
 
@@ -38,7 +39,7 @@ Frontend → Spring Boot → Flask API → ML Model → Result
 
 ## ⚙️ Features
 
-* Predict student performance (PASS / FAIL)
+* Predict student performance (**PASS / FAIL**)
 * REST API integration between Java and Python
 * End-to-end full-stack ML system
 * Real-time prediction using trained model
@@ -49,7 +50,7 @@ Frontend → Spring Boot → Flask API → ML Model → Result
 
 ### 1. Start Flask Server
 
-```bash
+```
 python app.py
 ```
 
@@ -87,4 +88,4 @@ http://localhost:8080/index.html
 
 ## 👨‍💻 Author
 
-Anusha
+**Anusha**
